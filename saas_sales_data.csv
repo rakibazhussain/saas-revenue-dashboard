@@ -1,0 +1,501 @@
+Lead_ID,Created_Date,Month,Rep,Plan,Stage,Revenue,Days_In_Pipeline,Churned
+L1000,2024-11-23,November 2024,Ayesha K,Starter,Lead,0,29,0
+L1001,2024-03-12,March 2024,Ayesha K,Growth,Closed Won,1299,12,0
+L1002,2024-01-17,January 2024,Ayesha K,Starter,Lead,0,78,0
+L1003,2024-01-14,January 2024,Neha R,Starter,Demo,0,70,0
+L1004,2024-08-02,August 2024,Rohan M,Starter,Lead,0,1,0
+L1005,2024-03-22,March 2024,Dev T,Starter,Lead,0,44,0
+L1006,2024-02-22,February 2024,Ayesha K,Starter,Qualified,0,45,0
+L1007,2024-11-05,November 2024,Priya S,Growth,Demo,0,69,0
+L1008,2024-03-04,March 2024,Dev T,Starter,Lead,0,81,0
+L1009,2024-11-12,November 2024,Priya S,Growth,Demo,0,6,0
+L1010,2024-12-04,December 2024,Rohan M,Growth,Closed Lost,0,30,0
+L1011,2024-02-21,February 2024,Dev T,Starter,Demo,0,47,0
+L1012,2024-03-24,March 2024,Priya S,Starter,Demo,0,90,0
+L1013,2024-12-15,December 2024,Ayesha K,Growth,Lead,0,32,0
+L1014,2024-03-24,March 2024,Dev T,Starter,Closed Lost,0,82,0
+L1015,2024-12-18,December 2024,Neha R,Starter,Qualified,0,8,0
+L1016,2024-04-27,April 2024,Ayesha K,Growth,Qualified,0,9,0
+L1017,2024-04-18,April 2024,Neha R,Enterprise,Qualified,0,84,0
+L1018,2024-09-12,September 2024,Dev T,Enterprise,Demo,0,19,0
+L1019,2024-05-15,May 2024,Rohan M,Starter,Demo,0,34,0
+L1020,2024-10-26,October 2024,Dev T,Enterprise,Qualified,0,29,0
+L1021,2024-03-11,March 2024,Neha R,Starter,Proposal,0,15,0
+L1022,2024-03-19,March 2024,Rohan M,Growth,Qualified,0,9,0
+L1023,2024-07-16,July 2024,Dev T,Growth,Qualified,0,33,0
+L1024,2024-10-10,October 2024,Ayesha K,Growth,Lead,0,69,0
+L1025,2024-05-16,May 2024,Priya S,Starter,Qualified,0,59,0
+L1026,2024-01-02,January 2024,Priya S,Enterprise,Proposal,0,65,0
+L1027,2024-02-24,February 2024,Priya S,Growth,Qualified,0,26,0
+L1028,2024-03-19,March 2024,Priya S,Growth,Qualified,0,68,0
+L1029,2024-01-01,January 2024,Neha R,Starter,Lead,0,47,0
+L1030,2024-06-06,June 2024,Rohan M,Starter,Closed Won,499,11,0
+L1031,2024-09-05,September 2024,Ayesha K,Enterprise,Qualified,0,17,0
+L1032,2024-03-06,March 2024,Dev T,Enterprise,Lead,0,68,0
+L1033,2024-11-06,November 2024,Dev T,Enterprise,Closed Won,3999,89,0
+L1034,2024-06-08,June 2024,Dev T,Enterprise,Demo,0,57,0
+L1035,2024-09-21,September 2024,Dev T,Starter,Lead,0,44,0
+L1036,2024-01-11,January 2024,Neha R,Growth,Demo,0,1,0
+L1037,2024-02-06,February 2024,Ayesha K,Starter,Closed Won,499,43,0
+L1038,2024-05-01,May 2024,Priya S,Growth,Lead,0,17,0
+L1039,2024-10-19,October 2024,Neha R,Starter,Proposal,0,53,0
+L1040,2024-04-07,April 2024,Ayesha K,Starter,Qualified,0,55,0
+L1041,2024-07-29,July 2024,Dev T,Enterprise,Lead,0,84,0
+L1042,2024-11-26,November 2024,Ayesha K,Starter,Demo,0,14,0
+L1043,2024-05-07,May 2024,Rohan M,Starter,Qualified,0,55,0
+L1044,2024-04-03,April 2024,Priya S,Starter,Closed Won,499,10,0
+L1045,2024-10-08,October 2024,Ayesha K,Starter,Closed Lost,0,2,0
+L1046,2024-02-17,February 2024,Rohan M,Starter,Qualified,0,28,0
+L1047,2024-07-24,July 2024,Ayesha K,Starter,Lead,0,50,0
+L1048,2024-05-15,May 2024,Dev T,Starter,Demo,0,72,0
+L1049,2024-12-04,December 2024,Dev T,Starter,Lead,0,8,0
+L1050,2024-10-23,October 2024,Neha R,Starter,Qualified,0,7,0
+L1051,2024-10-26,October 2024,Dev T,Growth,Proposal,0,21,0
+L1052,2024-01-30,January 2024,Neha R,Starter,Lead,0,77,0
+L1053,2024-02-04,February 2024,Rohan M,Starter,Closed Won,499,73,0
+L1054,2024-10-31,October 2024,Ayesha K,Growth,Qualified,0,75,0
+L1055,2024-10-16,October 2024,Neha R,Starter,Lead,0,86,0
+L1056,2024-06-09,June 2024,Rohan M,Starter,Lead,0,83,0
+L1057,2024-06-02,June 2024,Dev T,Starter,Proposal,0,10,0
+L1058,2024-01-05,January 2024,Dev T,Growth,Demo,0,13,0
+L1059,2024-02-07,February 2024,Neha R,Starter,Lead,0,45,0
+L1060,2024-02-05,February 2024,Rohan M,Starter,Lead,0,70,0
+L1061,2024-12-26,December 2024,Priya S,Growth,Closed Lost,0,84,0
+L1062,2024-09-27,September 2024,Ayesha K,Growth,Demo,0,85,0
+L1063,2024-02-23,February 2024,Rohan M,Starter,Closed Won,499,71,0
+L1064,2024-05-24,May 2024,Neha R,Starter,Qualified,0,88,0
+L1065,2024-11-20,November 2024,Priya S,Growth,Lead,0,7,0
+L1066,2024-02-17,February 2024,Dev T,Growth,Lead,0,43,0
+L1067,2024-03-07,March 2024,Priya S,Starter,Qualified,0,55,0
+L1068,2024-10-14,October 2024,Ayesha K,Starter,Closed Won,499,89,1
+L1069,2024-10-06,October 2024,Ayesha K,Growth,Demo,0,19,0
+L1070,2024-08-08,August 2024,Rohan M,Starter,Qualified,0,6,0
+L1071,2024-07-02,July 2024,Rohan M,Growth,Demo,0,46,0
+L1072,2024-10-13,October 2024,Dev T,Enterprise,Demo,0,31,0
+L1073,2024-03-24,March 2024,Rohan M,Enterprise,Lead,0,43,0
+L1074,2024-07-29,July 2024,Rohan M,Starter,Proposal,0,14,0
+L1075,2024-07-14,July 2024,Ayesha K,Enterprise,Lead,0,59,0
+L1076,2024-06-28,June 2024,Priya S,Growth,Closed Won,1299,29,0
+L1077,2024-04-08,April 2024,Dev T,Starter,Proposal,0,36,0
+L1078,2024-06-28,June 2024,Neha R,Starter,Closed Lost,0,69,0
+L1079,2024-06-18,June 2024,Ayesha K,Starter,Closed Lost,0,23,0
+L1080,2024-10-24,October 2024,Priya S,Starter,Demo,0,45,0
+L1081,2024-06-09,June 2024,Dev T,Growth,Qualified,0,50,0
+L1082,2024-10-22,October 2024,Rohan M,Starter,Demo,0,1,0
+L1083,2024-09-23,September 2024,Neha R,Growth,Closed Won,1299,86,0
+L1084,2024-08-08,August 2024,Ayesha K,Enterprise,Closed Won,3999,80,0
+L1085,2024-03-04,March 2024,Priya S,Growth,Demo,0,42,0
+L1086,2024-07-25,July 2024,Priya S,Growth,Lead,0,86,0
+L1087,2024-07-13,July 2024,Rohan M,Growth,Qualified,0,71,0
+L1088,2024-01-01,January 2024,Priya S,Starter,Qualified,0,75,0
+L1089,2024-11-06,November 2024,Priya S,Starter,Qualified,0,28,0
+L1090,2024-09-18,September 2024,Dev T,Growth,Closed Lost,0,22,0
+L1091,2024-12-03,December 2024,Ayesha K,Starter,Demo,0,80,0
+L1092,2024-06-20,June 2024,Ayesha K,Growth,Proposal,0,87,0
+L1093,2024-06-07,June 2024,Rohan M,Growth,Lead,0,6,0
+L1094,2024-05-05,May 2024,Dev T,Growth,Proposal,0,59,0
+L1095,2024-07-31,July 2024,Neha R,Starter,Demo,0,64,0
+L1096,2024-07-23,July 2024,Rohan M,Starter,Demo,0,14,0
+L1097,2024-08-05,August 2024,Rohan M,Starter,Closed Lost,0,67,0
+L1098,2024-08-25,August 2024,Ayesha K,Growth,Closed Won,1299,16,0
+L1099,2024-08-25,August 2024,Neha R,Enterprise,Demo,0,57,0
+L1100,2024-11-09,November 2024,Neha R,Starter,Closed Won,499,58,1
+L1101,2024-08-31,August 2024,Dev T,Starter,Lead,0,82,0
+L1102,2024-05-21,May 2024,Neha R,Starter,Lead,0,57,0
+L1103,2024-02-09,February 2024,Priya S,Starter,Qualified,0,70,0
+L1104,2024-02-11,February 2024,Rohan M,Starter,Qualified,0,20,0
+L1105,2024-12-27,December 2024,Rohan M,Starter,Qualified,0,70,0
+L1106,2024-08-26,August 2024,Dev T,Starter,Proposal,0,50,0
+L1107,2024-10-26,October 2024,Ayesha K,Enterprise,Proposal,0,49,0
+L1108,2024-09-01,September 2024,Ayesha K,Enterprise,Lead,0,50,0
+L1109,2024-08-02,August 2024,Neha R,Growth,Qualified,0,78,0
+L1110,2024-04-22,April 2024,Dev T,Starter,Qualified,0,4,0
+L1111,2024-07-18,July 2024,Priya S,Growth,Proposal,0,22,0
+L1112,2024-08-27,August 2024,Rohan M,Enterprise,Qualified,0,51,0
+L1113,2024-10-30,October 2024,Neha R,Growth,Lead,0,55,0
+L1114,2024-03-10,March 2024,Dev T,Starter,Lead,0,42,0
+L1115,2024-04-18,April 2024,Dev T,Starter,Proposal,0,49,0
+L1116,2024-05-22,May 2024,Dev T,Starter,Lead,0,3,0
+L1117,2024-10-03,October 2024,Ayesha K,Enterprise,Qualified,0,84,0
+L1118,2024-02-05,February 2024,Ayesha K,Growth,Closed Won,1299,26,0
+L1119,2024-11-14,November 2024,Rohan M,Starter,Qualified,0,15,0
+L1120,2024-10-15,October 2024,Rohan M,Starter,Lead,0,48,0
+L1121,2024-03-26,March 2024,Neha R,Growth,Demo,0,15,0
+L1122,2024-03-24,March 2024,Priya S,Starter,Lead,0,40,0
+L1123,2024-10-21,October 2024,Dev T,Starter,Demo,0,10,0
+L1124,2024-10-30,October 2024,Rohan M,Starter,Proposal,0,88,0
+L1125,2024-11-03,November 2024,Ayesha K,Growth,Demo,0,6,0
+L1126,2024-06-26,June 2024,Neha R,Starter,Qualified,0,65,0
+L1127,2024-11-27,November 2024,Priya S,Starter,Qualified,0,63,0
+L1128,2024-02-24,February 2024,Dev T,Enterprise,Demo,0,59,0
+L1129,2024-12-28,December 2024,Rohan M,Starter,Demo,0,84,0
+L1130,2024-05-18,May 2024,Neha R,Growth,Qualified,0,62,0
+L1131,2024-08-26,August 2024,Dev T,Growth,Demo,0,42,0
+L1132,2024-05-05,May 2024,Ayesha K,Starter,Qualified,0,60,0
+L1133,2024-10-18,October 2024,Neha R,Growth,Qualified,0,64,0
+L1134,2024-06-15,June 2024,Rohan M,Starter,Qualified,0,34,0
+L1135,2024-06-23,June 2024,Priya S,Enterprise,Demo,0,36,0
+L1136,2024-10-11,October 2024,Ayesha K,Growth,Lead,0,31,0
+L1137,2024-07-27,July 2024,Dev T,Growth,Lead,0,61,0
+L1138,2024-11-26,November 2024,Dev T,Starter,Lead,0,38,0
+L1139,2024-04-23,April 2024,Dev T,Growth,Qualified,0,75,0
+L1140,2024-07-07,July 2024,Dev T,Growth,Qualified,0,71,0
+L1141,2024-06-18,June 2024,Priya S,Growth,Lead,0,33,0
+L1142,2024-04-28,April 2024,Ayesha K,Growth,Qualified,0,69,0
+L1143,2024-12-19,December 2024,Rohan M,Starter,Demo,0,36,0
+L1144,2024-10-28,October 2024,Neha R,Growth,Closed Lost,0,25,0
+L1145,2024-05-31,May 2024,Rohan M,Starter,Qualified,0,69,0
+L1146,2024-03-05,March 2024,Priya S,Starter,Lead,0,38,0
+L1147,2024-12-23,December 2024,Rohan M,Growth,Proposal,0,14,0
+L1148,2024-01-07,January 2024,Neha R,Starter,Qualified,0,44,0
+L1149,2024-04-04,April 2024,Ayesha K,Starter,Proposal,0,15,0
+L1150,2024-02-03,February 2024,Dev T,Starter,Demo,0,88,0
+L1151,2024-01-28,January 2024,Rohan M,Starter,Demo,0,39,0
+L1152,2024-02-13,February 2024,Rohan M,Starter,Proposal,0,78,0
+L1153,2024-11-01,November 2024,Neha R,Starter,Qualified,0,58,0
+L1154,2024-08-14,August 2024,Priya S,Enterprise,Closed Lost,0,40,0
+L1155,2024-10-18,October 2024,Neha R,Starter,Closed Lost,0,13,0
+L1156,2024-04-16,April 2024,Rohan M,Starter,Lead,0,31,0
+L1157,2024-03-29,March 2024,Neha R,Starter,Lead,0,58,0
+L1158,2024-12-18,December 2024,Neha R,Starter,Lead,0,37,0
+L1159,2024-12-27,December 2024,Priya S,Growth,Qualified,0,88,0
+L1160,2024-04-29,April 2024,Priya S,Growth,Demo,0,85,0
+L1161,2024-04-11,April 2024,Dev T,Starter,Lead,0,20,0
+L1162,2024-05-16,May 2024,Rohan M,Starter,Lead,0,40,0
+L1163,2024-10-31,October 2024,Neha R,Enterprise,Qualified,0,60,0
+L1164,2024-12-18,December 2024,Priya S,Growth,Closed Won,1299,65,0
+L1165,2024-08-12,August 2024,Ayesha K,Growth,Closed Won,1299,42,0
+L1166,2024-01-14,January 2024,Ayesha K,Starter,Demo,0,74,0
+L1167,2024-10-27,October 2024,Ayesha K,Enterprise,Demo,0,35,0
+L1168,2024-10-22,October 2024,Ayesha K,Growth,Lead,0,67,0
+L1169,2024-11-29,November 2024,Dev T,Enterprise,Lead,0,75,0
+L1170,2024-08-11,August 2024,Dev T,Enterprise,Qualified,0,53,0
+L1171,2024-06-19,June 2024,Priya S,Growth,Proposal,0,43,0
+L1172,2024-07-29,July 2024,Dev T,Starter,Closed Won,499,71,0
+L1173,2024-02-15,February 2024,Priya S,Starter,Lead,0,52,0
+L1174,2024-09-20,September 2024,Ayesha K,Growth,Qualified,0,53,0
+L1175,2024-01-28,January 2024,Rohan M,Growth,Demo,0,64,0
+L1176,2024-11-16,November 2024,Dev T,Growth,Lead,0,71,0
+L1177,2024-03-08,March 2024,Priya S,Starter,Demo,0,16,0
+L1178,2024-01-15,January 2024,Neha R,Growth,Demo,0,40,0
+L1179,2024-10-09,October 2024,Ayesha K,Growth,Lead,0,15,0
+L1180,2024-08-24,August 2024,Ayesha K,Growth,Lead,0,38,0
+L1181,2024-09-17,September 2024,Priya S,Starter,Qualified,0,61,0
+L1182,2024-05-04,May 2024,Dev T,Growth,Qualified,0,77,0
+L1183,2024-09-17,September 2024,Rohan M,Enterprise,Lead,0,54,0
+L1184,2024-06-23,June 2024,Neha R,Starter,Lead,0,39,0
+L1185,2024-10-27,October 2024,Neha R,Enterprise,Qualified,0,20,0
+L1186,2024-08-16,August 2024,Neha R,Starter,Qualified,0,70,0
+L1187,2024-07-12,July 2024,Dev T,Enterprise,Proposal,0,90,0
+L1188,2024-05-02,May 2024,Neha R,Starter,Proposal,0,53,0
+L1189,2024-01-23,January 2024,Priya S,Growth,Demo,0,49,0
+L1190,2024-07-16,July 2024,Rohan M,Starter,Lead,0,65,0
+L1191,2024-10-29,October 2024,Priya S,Enterprise,Closed Won,3999,57,0
+L1192,2024-08-21,August 2024,Ayesha K,Growth,Qualified,0,84,0
+L1193,2024-03-20,March 2024,Ayesha K,Starter,Closed Lost,0,44,0
+L1194,2024-11-15,November 2024,Dev T,Growth,Proposal,0,87,0
+L1195,2024-09-30,September 2024,Dev T,Enterprise,Demo,0,63,0
+L1196,2024-10-04,October 2024,Ayesha K,Growth,Lead,0,88,0
+L1197,2024-05-27,May 2024,Rohan M,Growth,Qualified,0,13,0
+L1198,2024-11-20,November 2024,Ayesha K,Starter,Demo,0,4,0
+L1199,2024-01-24,January 2024,Priya S,Growth,Lead,0,48,0
+L1200,2024-08-08,August 2024,Rohan M,Starter,Qualified,0,88,0
+L1201,2024-04-02,April 2024,Rohan M,Starter,Demo,0,49,0
+L1202,2024-11-13,November 2024,Rohan M,Starter,Demo,0,30,0
+L1203,2024-08-24,August 2024,Priya S,Starter,Demo,0,60,0
+L1204,2024-05-27,May 2024,Neha R,Starter,Qualified,0,45,0
+L1205,2024-10-27,October 2024,Priya S,Growth,Qualified,0,33,0
+L1206,2024-08-21,August 2024,Priya S,Starter,Qualified,0,62,0
+L1207,2024-02-24,February 2024,Rohan M,Starter,Qualified,0,38,0
+L1208,2024-12-24,December 2024,Priya S,Starter,Proposal,0,51,0
+L1209,2024-05-20,May 2024,Ayesha K,Growth,Demo,0,7,0
+L1210,2024-11-06,November 2024,Dev T,Growth,Closed Won,1299,30,0
+L1211,2024-06-29,June 2024,Rohan M,Growth,Demo,0,87,0
+L1212,2024-12-03,December 2024,Rohan M,Growth,Closed Won,1299,83,0
+L1213,2024-08-13,August 2024,Ayesha K,Growth,Demo,0,12,0
+L1214,2024-05-31,May 2024,Priya S,Growth,Lead,0,17,0
+L1215,2024-10-03,October 2024,Priya S,Growth,Closed Won,1299,22,0
+L1216,2024-09-03,September 2024,Priya S,Growth,Qualified,0,15,0
+L1217,2024-08-27,August 2024,Ayesha K,Starter,Closed Lost,0,87,0
+L1218,2024-12-11,December 2024,Dev T,Enterprise,Proposal,0,47,0
+L1219,2024-02-16,February 2024,Dev T,Starter,Qualified,0,59,0
+L1220,2024-07-07,July 2024,Priya S,Growth,Proposal,0,48,0
+L1221,2024-02-25,February 2024,Rohan M,Starter,Demo,0,72,0
+L1222,2024-06-16,June 2024,Neha R,Starter,Lead,0,60,0
+L1223,2024-12-24,December 2024,Priya S,Growth,Lead,0,6,0
+L1224,2024-01-20,January 2024,Priya S,Enterprise,Lead,0,31,0
+L1225,2024-10-02,October 2024,Rohan M,Starter,Qualified,0,90,0
+L1226,2024-10-03,October 2024,Dev T,Growth,Demo,0,54,0
+L1227,2024-12-01,December 2024,Ayesha K,Growth,Demo,0,36,0
+L1228,2024-01-17,January 2024,Priya S,Starter,Qualified,0,31,0
+L1229,2024-07-04,July 2024,Ayesha K,Enterprise,Qualified,0,83,0
+L1230,2024-07-02,July 2024,Ayesha K,Starter,Lead,0,16,0
+L1231,2024-08-20,August 2024,Ayesha K,Growth,Demo,0,77,0
+L1232,2024-01-11,January 2024,Ayesha K,Growth,Lead,0,17,0
+L1233,2024-10-16,October 2024,Rohan M,Starter,Proposal,0,27,0
+L1234,2024-10-27,October 2024,Rohan M,Growth,Lead,0,19,0
+L1235,2024-11-01,November 2024,Ayesha K,Starter,Closed Lost,0,17,0
+L1236,2024-10-03,October 2024,Priya S,Growth,Lead,0,4,0
+L1237,2024-03-08,March 2024,Ayesha K,Starter,Proposal,0,76,0
+L1238,2024-06-14,June 2024,Ayesha K,Starter,Lead,0,54,0
+L1239,2024-09-26,September 2024,Ayesha K,Growth,Qualified,0,47,0
+L1240,2024-09-19,September 2024,Neha R,Starter,Qualified,0,79,0
+L1241,2024-01-23,January 2024,Neha R,Starter,Demo,0,4,0
+L1242,2024-02-01,February 2024,Dev T,Growth,Qualified,0,14,0
+L1243,2024-09-08,September 2024,Dev T,Starter,Lead,0,78,0
+L1244,2024-03-16,March 2024,Ayesha K,Starter,Demo,0,75,0
+L1245,2024-10-07,October 2024,Priya S,Starter,Demo,0,38,0
+L1246,2024-08-20,August 2024,Neha R,Growth,Lead,0,90,0
+L1247,2024-02-28,February 2024,Neha R,Growth,Lead,0,58,0
+L1248,2024-04-26,April 2024,Dev T,Starter,Qualified,0,54,0
+L1249,2024-02-18,February 2024,Priya S,Starter,Demo,0,48,0
+L1250,2024-03-19,March 2024,Dev T,Starter,Proposal,0,12,0
+L1251,2024-08-09,August 2024,Ayesha K,Growth,Qualified,0,17,0
+L1252,2024-10-11,October 2024,Ayesha K,Growth,Demo,0,43,0
+L1253,2024-12-09,December 2024,Ayesha K,Starter,Closed Won,499,55,1
+L1254,2024-01-27,January 2024,Priya S,Growth,Qualified,0,74,0
+L1255,2024-09-16,September 2024,Rohan M,Starter,Qualified,0,14,0
+L1256,2024-06-28,June 2024,Neha R,Starter,Proposal,0,74,0
+L1257,2024-04-25,April 2024,Dev T,Growth,Closed Lost,0,80,0
+L1258,2024-11-10,November 2024,Neha R,Starter,Closed Won,499,89,0
+L1259,2024-04-02,April 2024,Priya S,Growth,Qualified,0,44,0
+L1260,2024-06-28,June 2024,Ayesha K,Starter,Lead,0,85,0
+L1261,2024-07-24,July 2024,Ayesha K,Starter,Demo,0,4,0
+L1262,2024-02-16,February 2024,Neha R,Starter,Qualified,0,44,0
+L1263,2024-03-21,March 2024,Priya S,Starter,Qualified,0,73,0
+L1264,2024-11-01,November 2024,Ayesha K,Enterprise,Lead,0,80,0
+L1265,2024-01-26,January 2024,Ayesha K,Starter,Demo,0,63,0
+L1266,2024-11-06,November 2024,Dev T,Starter,Lead,0,66,0
+L1267,2024-02-28,February 2024,Priya S,Starter,Lead,0,87,0
+L1268,2024-10-30,October 2024,Dev T,Growth,Qualified,0,29,0
+L1269,2024-07-21,July 2024,Neha R,Starter,Lead,0,28,0
+L1270,2024-03-11,March 2024,Priya S,Starter,Lead,0,64,0
+L1271,2024-08-08,August 2024,Rohan M,Starter,Qualified,0,30,0
+L1272,2024-09-13,September 2024,Neha R,Growth,Proposal,0,10,0
+L1273,2024-07-22,July 2024,Ayesha K,Starter,Qualified,0,10,0
+L1274,2024-06-09,June 2024,Neha R,Starter,Qualified,0,82,0
+L1275,2024-08-01,August 2024,Priya S,Starter,Lead,0,42,0
+L1276,2024-03-28,March 2024,Neha R,Starter,Demo,0,47,0
+L1277,2024-02-15,February 2024,Dev T,Growth,Lead,0,76,0
+L1278,2024-07-24,July 2024,Neha R,Starter,Closed Won,499,44,0
+L1279,2024-03-27,March 2024,Ayesha K,Growth,Lead,0,66,0
+L1280,2024-04-09,April 2024,Priya S,Starter,Closed Lost,0,83,0
+L1281,2024-03-16,March 2024,Rohan M,Starter,Lead,0,23,0
+L1282,2024-11-04,November 2024,Rohan M,Growth,Demo,0,23,0
+L1283,2024-11-17,November 2024,Dev T,Starter,Demo,0,75,0
+L1284,2024-08-17,August 2024,Neha R,Growth,Closed Lost,0,42,0
+L1285,2024-11-17,November 2024,Priya S,Starter,Lead,0,57,0
+L1286,2024-11-19,November 2024,Priya S,Growth,Demo,0,46,0
+L1287,2024-09-16,September 2024,Ayesha K,Starter,Qualified,0,8,0
+L1288,2024-07-07,July 2024,Priya S,Starter,Proposal,0,12,0
+L1289,2024-11-10,November 2024,Neha R,Growth,Qualified,0,71,0
+L1290,2024-01-22,January 2024,Dev T,Enterprise,Demo,0,25,0
+L1291,2024-06-13,June 2024,Neha R,Starter,Lead,0,8,0
+L1292,2024-08-18,August 2024,Ayesha K,Growth,Proposal,0,11,0
+L1293,2024-09-15,September 2024,Rohan M,Starter,Demo,0,57,0
+L1294,2024-09-25,September 2024,Neha R,Growth,Qualified,0,37,0
+L1295,2024-07-17,July 2024,Dev T,Growth,Demo,0,7,0
+L1296,2024-11-19,November 2024,Priya S,Starter,Lead,0,87,0
+L1297,2024-07-16,July 2024,Priya S,Starter,Proposal,0,78,0
+L1298,2024-03-17,March 2024,Priya S,Starter,Demo,0,45,0
+L1299,2024-06-07,June 2024,Dev T,Starter,Demo,0,11,0
+L1300,2024-06-07,June 2024,Neha R,Starter,Proposal,0,17,0
+L1301,2024-12-09,December 2024,Neha R,Starter,Demo,0,66,0
+L1302,2024-07-04,July 2024,Ayesha K,Starter,Lead,0,28,0
+L1303,2024-06-23,June 2024,Dev T,Starter,Closed Lost,0,20,0
+L1304,2024-02-09,February 2024,Priya S,Growth,Lead,0,70,0
+L1305,2024-09-26,September 2024,Ayesha K,Growth,Closed Won,1299,80,0
+L1306,2024-07-11,July 2024,Rohan M,Starter,Proposal,0,80,0
+L1307,2024-03-25,March 2024,Dev T,Starter,Qualified,0,31,0
+L1308,2024-08-15,August 2024,Neha R,Starter,Demo,0,58,0
+L1309,2024-04-29,April 2024,Neha R,Starter,Closed Lost,0,61,0
+L1310,2024-04-09,April 2024,Priya S,Growth,Demo,0,57,0
+L1311,2024-08-24,August 2024,Priya S,Growth,Qualified,0,54,0
+L1312,2024-03-23,March 2024,Rohan M,Growth,Lead,0,33,0
+L1313,2024-01-27,January 2024,Dev T,Enterprise,Demo,0,14,0
+L1314,2024-12-30,December 2024,Neha R,Enterprise,Lead,0,21,0
+L1315,2024-05-19,May 2024,Dev T,Enterprise,Lead,0,56,0
+L1316,2024-02-16,February 2024,Rohan M,Growth,Closed Won,1299,4,0
+L1317,2024-07-21,July 2024,Neha R,Starter,Qualified,0,11,0
+L1318,2024-07-10,July 2024,Rohan M,Starter,Closed Won,499,84,0
+L1319,2024-03-15,March 2024,Rohan M,Starter,Closed Won,499,61,0
+L1320,2024-03-12,March 2024,Dev T,Starter,Lead,0,11,0
+L1321,2024-01-10,January 2024,Priya S,Starter,Lead,0,78,0
+L1322,2024-09-27,September 2024,Dev T,Starter,Lead,0,39,0
+L1323,2024-03-03,March 2024,Ayesha K,Starter,Demo,0,80,0
+L1324,2024-08-22,August 2024,Ayesha K,Starter,Closed Won,499,77,0
+L1325,2024-11-19,November 2024,Neha R,Growth,Demo,0,38,0
+L1326,2024-08-07,August 2024,Ayesha K,Growth,Lead,0,54,0
+L1327,2024-04-05,April 2024,Ayesha K,Growth,Qualified,0,68,0
+L1328,2024-10-05,October 2024,Neha R,Growth,Qualified,0,3,0
+L1329,2024-07-18,July 2024,Dev T,Starter,Qualified,0,48,0
+L1330,2024-05-09,May 2024,Ayesha K,Starter,Lead,0,31,0
+L1331,2024-12-02,December 2024,Ayesha K,Growth,Demo,0,43,0
+L1332,2024-03-09,March 2024,Ayesha K,Starter,Qualified,0,83,0
+L1333,2024-03-30,March 2024,Dev T,Enterprise,Qualified,0,24,0
+L1334,2024-03-10,March 2024,Ayesha K,Growth,Closed Won,1299,5,0
+L1335,2024-01-23,January 2024,Rohan M,Enterprise,Qualified,0,40,0
+L1336,2024-09-20,September 2024,Dev T,Enterprise,Qualified,0,33,0
+L1337,2024-01-19,January 2024,Rohan M,Starter,Proposal,0,7,0
+L1338,2024-12-01,December 2024,Priya S,Starter,Proposal,0,56,0
+L1339,2024-07-23,July 2024,Dev T,Enterprise,Qualified,0,24,0
+L1340,2024-09-11,September 2024,Dev T,Starter,Proposal,0,35,0
+L1341,2024-02-12,February 2024,Dev T,Starter,Demo,0,24,0
+L1342,2024-10-06,October 2024,Priya S,Starter,Lead,0,85,0
+L1343,2024-05-31,May 2024,Priya S,Starter,Demo,0,22,0
+L1344,2024-12-19,December 2024,Dev T,Starter,Lead,0,46,0
+L1345,2024-11-10,November 2024,Dev T,Starter,Closed Lost,0,8,0
+L1346,2024-02-08,February 2024,Dev T,Starter,Proposal,0,87,0
+L1347,2024-03-22,March 2024,Ayesha K,Starter,Demo,0,57,0
+L1348,2024-01-18,January 2024,Rohan M,Starter,Proposal,0,47,0
+L1349,2024-07-04,July 2024,Dev T,Enterprise,Lead,0,20,0
+L1350,2024-12-13,December 2024,Dev T,Enterprise,Qualified,0,10,0
+L1351,2024-10-20,October 2024,Rohan M,Growth,Qualified,0,84,0
+L1352,2024-05-22,May 2024,Rohan M,Enterprise,Lead,0,24,0
+L1353,2024-09-12,September 2024,Neha R,Starter,Demo,0,34,0
+L1354,2024-05-13,May 2024,Dev T,Starter,Demo,0,89,0
+L1355,2024-09-08,September 2024,Rohan M,Starter,Proposal,0,58,0
+L1356,2024-03-29,March 2024,Dev T,Enterprise,Proposal,0,41,0
+L1357,2024-12-07,December 2024,Priya S,Growth,Qualified,0,38,0
+L1358,2024-06-02,June 2024,Rohan M,Growth,Closed Won,1299,82,0
+L1359,2024-07-04,July 2024,Neha R,Starter,Closed Lost,0,18,0
+L1360,2024-05-01,May 2024,Dev T,Starter,Demo,0,48,0
+L1361,2024-08-27,August 2024,Neha R,Starter,Closed Won,499,9,0
+L1362,2024-09-02,September 2024,Neha R,Starter,Qualified,0,74,0
+L1363,2024-02-07,February 2024,Rohan M,Enterprise,Demo,0,58,0
+L1364,2024-08-26,August 2024,Neha R,Starter,Closed Won,499,71,0
+L1365,2024-04-03,April 2024,Rohan M,Starter,Closed Won,499,8,0
+L1366,2024-09-22,September 2024,Rohan M,Starter,Lead,0,29,0
+L1367,2024-06-26,June 2024,Neha R,Enterprise,Proposal,0,33,0
+L1368,2024-04-10,April 2024,Neha R,Starter,Demo,0,79,0
+L1369,2024-09-30,September 2024,Ayesha K,Growth,Lead,0,75,0
+L1370,2024-03-19,March 2024,Rohan M,Growth,Demo,0,78,0
+L1371,2024-06-21,June 2024,Neha R,Starter,Proposal,0,11,0
+L1372,2024-01-24,January 2024,Neha R,Starter,Lead,0,74,0
+L1373,2024-08-01,August 2024,Neha R,Growth,Qualified,0,81,0
+L1374,2024-10-06,October 2024,Priya S,Growth,Qualified,0,32,0
+L1375,2024-12-16,December 2024,Dev T,Starter,Lead,0,8,0
+L1376,2024-03-21,March 2024,Dev T,Starter,Qualified,0,44,0
+L1377,2024-11-06,November 2024,Rohan M,Starter,Demo,0,45,0
+L1378,2024-07-23,July 2024,Rohan M,Growth,Qualified,0,14,0
+L1379,2024-06-12,June 2024,Rohan M,Starter,Lead,0,32,0
+L1380,2024-03-13,March 2024,Ayesha K,Starter,Closed Won,499,79,0
+L1381,2024-03-22,March 2024,Priya S,Enterprise,Demo,0,25,0
+L1382,2024-03-22,March 2024,Dev T,Enterprise,Qualified,0,40,0
+L1383,2024-09-11,September 2024,Ayesha K,Starter,Qualified,0,59,0
+L1384,2024-05-03,May 2024,Rohan M,Growth,Lead,0,37,0
+L1385,2024-09-10,September 2024,Neha R,Enterprise,Demo,0,61,0
+L1386,2024-05-26,May 2024,Neha R,Starter,Lead,0,18,0
+L1387,2024-05-15,May 2024,Priya S,Growth,Qualified,0,52,0
+L1388,2024-01-27,January 2024,Neha R,Growth,Qualified,0,37,0
+L1389,2024-02-07,February 2024,Dev T,Growth,Proposal,0,36,0
+L1390,2024-11-15,November 2024,Neha R,Starter,Closed Lost,0,51,0
+L1391,2024-07-10,July 2024,Priya S,Growth,Qualified,0,19,0
+L1392,2024-04-11,April 2024,Neha R,Growth,Qualified,0,6,0
+L1393,2024-01-20,January 2024,Rohan M,Growth,Proposal,0,67,0
+L1394,2024-08-21,August 2024,Rohan M,Growth,Qualified,0,42,0
+L1395,2024-11-09,November 2024,Priya S,Starter,Closed Lost,0,39,0
+L1396,2024-10-30,October 2024,Priya S,Growth,Qualified,0,63,0
+L1397,2024-12-28,December 2024,Neha R,Starter,Proposal,0,48,0
+L1398,2024-06-18,June 2024,Ayesha K,Enterprise,Demo,0,89,0
+L1399,2024-11-18,November 2024,Ayesha K,Growth,Lead,0,84,0
+L1400,2024-10-23,October 2024,Neha R,Starter,Lead,0,62,0
+L1401,2024-03-28,March 2024,Neha R,Growth,Demo,0,49,0
+L1402,2024-03-16,March 2024,Rohan M,Starter,Closed Won,499,15,0
+L1403,2024-08-13,August 2024,Priya S,Starter,Qualified,0,27,0
+L1404,2024-07-29,July 2024,Neha R,Growth,Closed Won,1299,8,0
+L1405,2024-09-22,September 2024,Rohan M,Growth,Closed Lost,0,62,0
+L1406,2024-09-26,September 2024,Dev T,Starter,Lead,0,69,0
+L1407,2024-06-24,June 2024,Neha R,Starter,Proposal,0,88,0
+L1408,2024-11-25,November 2024,Priya S,Growth,Lead,0,32,0
+L1409,2024-05-22,May 2024,Neha R,Starter,Closed Won,499,39,0
+L1410,2024-12-26,December 2024,Rohan M,Growth,Qualified,0,62,0
+L1411,2024-06-27,June 2024,Neha R,Enterprise,Proposal,0,36,0
+L1412,2024-05-27,May 2024,Ayesha K,Growth,Qualified,0,51,0
+L1413,2024-06-25,June 2024,Rohan M,Starter,Lead,0,11,0
+L1414,2024-06-26,June 2024,Dev T,Growth,Demo,0,28,0
+L1415,2024-04-13,April 2024,Neha R,Starter,Demo,0,35,0
+L1416,2024-03-11,March 2024,Ayesha K,Growth,Demo,0,32,0
+L1417,2024-01-26,January 2024,Neha R,Starter,Lead,0,13,0
+L1418,2024-07-30,July 2024,Priya S,Growth,Lead,0,18,0
+L1419,2024-01-03,January 2024,Neha R,Enterprise,Lead,0,84,0
+L1420,2024-08-31,August 2024,Dev T,Growth,Proposal,0,37,0
+L1421,2024-06-13,June 2024,Priya S,Growth,Closed Won,1299,12,0
+L1422,2024-04-28,April 2024,Neha R,Growth,Proposal,0,5,0
+L1423,2024-03-30,March 2024,Dev T,Enterprise,Lead,0,5,0
+L1424,2024-07-22,July 2024,Dev T,Starter,Demo,0,38,0
+L1425,2024-01-20,January 2024,Ayesha K,Starter,Demo,0,43,0
+L1426,2024-05-25,May 2024,Dev T,Enterprise,Qualified,0,64,0
+L1427,2024-03-09,March 2024,Neha R,Starter,Lead,0,15,0
+L1428,2024-06-18,June 2024,Rohan M,Growth,Demo,0,24,0
+L1429,2024-01-08,January 2024,Priya S,Growth,Demo,0,25,0
+L1430,2024-03-30,March 2024,Neha R,Enterprise,Closed Won,3999,55,0
+L1431,2024-02-14,February 2024,Dev T,Growth,Lead,0,18,0
+L1432,2024-09-01,September 2024,Priya S,Enterprise,Lead,0,50,0
+L1433,2024-04-30,April 2024,Dev T,Growth,Closed Lost,0,39,0
+L1434,2024-10-25,October 2024,Neha R,Starter,Demo,0,89,0
+L1435,2024-04-30,April 2024,Ayesha K,Growth,Qualified,0,21,0
+L1436,2024-07-26,July 2024,Neha R,Enterprise,Closed Won,3999,40,0
+L1437,2024-11-23,November 2024,Priya S,Starter,Lead,0,18,0
+L1438,2024-09-01,September 2024,Rohan M,Starter,Closed Lost,0,48,0
+L1439,2024-07-31,July 2024,Neha R,Enterprise,Proposal,0,86,0
+L1440,2024-04-21,April 2024,Rohan M,Growth,Demo,0,11,0
+L1441,2024-09-26,September 2024,Dev T,Growth,Qualified,0,73,0
+L1442,2024-02-27,February 2024,Ayesha K,Growth,Closed Won,1299,26,0
+L1443,2024-03-17,March 2024,Rohan M,Starter,Qualified,0,15,0
+L1444,2024-12-14,December 2024,Rohan M,Growth,Qualified,0,66,0
+L1445,2024-08-16,August 2024,Ayesha K,Starter,Qualified,0,59,0
+L1446,2024-10-15,October 2024,Ayesha K,Growth,Demo,0,40,0
+L1447,2024-01-12,January 2024,Dev T,Starter,Lead,0,28,0
+L1448,2024-10-23,October 2024,Ayesha K,Starter,Qualified,0,9,0
+L1449,2024-10-04,October 2024,Ayesha K,Enterprise,Lead,0,61,0
+L1450,2024-01-17,January 2024,Priya S,Starter,Proposal,0,83,0
+L1451,2024-11-26,November 2024,Dev T,Starter,Closed Won,499,58,1
+L1452,2024-07-12,July 2024,Dev T,Starter,Closed Lost,0,70,0
+L1453,2024-03-09,March 2024,Priya S,Starter,Closed Lost,0,51,0
+L1454,2024-09-27,September 2024,Rohan M,Growth,Lead,0,1,0
+L1455,2024-01-12,January 2024,Priya S,Starter,Demo,0,55,0
+L1456,2024-09-29,September 2024,Dev T,Growth,Lead,0,45,0
+L1457,2024-03-20,March 2024,Priya S,Starter,Closed Won,499,15,0
+L1458,2024-12-04,December 2024,Dev T,Growth,Closed Won,1299,3,0
+L1459,2024-02-04,February 2024,Ayesha K,Growth,Qualified,0,87,0
+L1460,2024-12-26,December 2024,Ayesha K,Starter,Lead,0,57,0
+L1461,2024-04-29,April 2024,Neha R,Starter,Proposal,0,8,0
+L1462,2024-03-12,March 2024,Neha R,Enterprise,Lead,0,74,0
+L1463,2024-06-12,June 2024,Neha R,Growth,Demo,0,42,0
+L1464,2024-05-01,May 2024,Priya S,Enterprise,Closed Lost,0,67,0
+L1465,2024-04-23,April 2024,Dev T,Starter,Lead,0,76,0
+L1466,2024-03-30,March 2024,Dev T,Growth,Lead,0,45,0
+L1467,2024-11-25,November 2024,Dev T,Growth,Qualified,0,54,0
+L1468,2024-07-28,July 2024,Rohan M,Starter,Lead,0,69,0
+L1469,2024-08-30,August 2024,Rohan M,Growth,Qualified,0,19,0
+L1470,2024-08-25,August 2024,Ayesha K,Growth,Closed Lost,0,72,0
+L1471,2024-09-28,September 2024,Rohan M,Starter,Lead,0,43,0
+L1472,2024-11-27,November 2024,Ayesha K,Enterprise,Proposal,0,12,0
+L1473,2024-10-01,October 2024,Rohan M,Starter,Qualified,0,78,0
+L1474,2024-11-04,November 2024,Ayesha K,Enterprise,Lead,0,76,0
+L1475,2024-12-09,December 2024,Neha R,Starter,Lead,0,43,0
+L1476,2024-06-04,June 2024,Ayesha K,Starter,Lead,0,16,0
+L1477,2024-09-02,September 2024,Rohan M,Growth,Demo,0,51,0
+L1478,2024-05-02,May 2024,Neha R,Starter,Lead,0,60,0
+L1479,2024-09-30,September 2024,Priya S,Starter,Qualified,0,64,0
+L1480,2024-08-26,August 2024,Ayesha K,Growth,Demo,0,41,0
+L1481,2024-04-14,April 2024,Priya S,Starter,Lead,0,29,0
+L1482,2024-03-15,March 2024,Ayesha K,Starter,Closed Won,499,75,0
+L1483,2024-05-31,May 2024,Rohan M,Starter,Lead,0,73,0
+L1484,2024-05-05,May 2024,Dev T,Growth,Closed Won,1299,44,0
+L1485,2024-09-07,September 2024,Dev T,Starter,Demo,0,46,0
+L1486,2024-03-27,March 2024,Rohan M,Growth,Qualified,0,70,0
+L1487,2024-11-24,November 2024,Ayesha K,Growth,Proposal,0,10,0
+L1488,2024-12-08,December 2024,Ayesha K,Growth,Qualified,0,81,0
+L1489,2024-04-28,April 2024,Ayesha K,Growth,Lead,0,65,0
+L1490,2024-08-21,August 2024,Priya S,Starter,Demo,0,79,0
+L1491,2024-09-04,September 2024,Dev T,Starter,Qualified,0,53,0
+L1492,2024-01-07,January 2024,Ayesha K,Growth,Lead,0,37,0
+L1493,2024-01-09,January 2024,Neha R,Growth,Demo,0,23,0
+L1494,2024-02-24,February 2024,Ayesha K,Growth,Lead,0,80,0
+L1495,2024-09-26,September 2024,Priya S,Growth,Lead,0,51,0
+L1496,2024-02-10,February 2024,Priya S,Enterprise,Qualified,0,32,0
+L1497,2024-12-22,December 2024,Rohan M,Starter,Proposal,0,11,0
+L1498,2024-11-30,November 2024,Ayesha K,Starter,Qualified,0,71,0
+L1499,2024-08-31,August 2024,Ayesha K,Growth,Demo,0,11,0
